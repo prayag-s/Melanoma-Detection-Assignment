@@ -50,7 +50,7 @@
   5. So overall we can conclude that for a case where the number of training
      data is less, following needs to be employed.
 
-    Augementation
+    Augumentation
 
 
     Adding more data using augementatino pipeline
