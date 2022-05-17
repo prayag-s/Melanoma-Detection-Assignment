@@ -30,10 +30,10 @@
   more images of each class.	
 
 
-## Conclusion
+## Results / Conclusion
 
-  1. The model has achieved maximum validation accuracy of 77%
-     **which is an improvement over the previous models by 20%.**
+  1. The model has achieved maximum validation accuracy of 85%
+     **which is an improvement over the previous models by 30%.**
 
 
   2. There is less overfitting than before  as training and validation
@@ -43,17 +43,20 @@
   3. The loss for both training and validation decrease gradually together as well.
 
 
-  4. So we can conclude the **after reducing class imbalance**,
+  4. So we can conclude the **after reducing class imbalance**, **tuning the learning rate**, 
      the **accuracy has increases significantly** and also **overfitting is under check** as well.
 
 
   5. So overall we can conclude that for a case where the number of training
      data is less, following needs to be employed.
 
-    Augumentation
-
-
-    Adding more data using augementatino pipeline
+    Adding more data using augementation pipeline
 
 
     Adding dropout layer to reduce overfitting
+   
+   
+    Adding more layer to achieve more accuracy
+   
+   
+    Tune learning rate for optimum accurany
