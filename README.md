@@ -2,6 +2,14 @@
 
    <p align="right">By Prayag Sanjay</p>
 
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
+
+## General Information
+
 ## Problem Statement
   To build a CNN based model which can accurately detect melanoma. 
 
@@ -30,7 +38,7 @@
   more images of each class.	
 
 
-## Results / Conclusion
+## Conclusions
 
   1. The model has achieved maximum validation accuracy of 85%
      **which is an improvement over the previous models by 30%.**
@@ -57,6 +65,23 @@
    
    
     Adding more layer to achieve more accuracy
-   
-   
+    
+     
     Tune learning rate for optimum accurany
+    
+## Technologies Used
+   
+    Tensorflow version 2.8.0
+    Keras version 2.8.0
+    
+## Acknowledgements
+
+    This project would not have been possible without 
+        - Excellent lectures on Upgrad from IIIT-B profressors
+        - My mentor Mr. Jain
+        - My batchmates in October 2021 batch
+        - SME Mr. Karmajit
+
+## Contact
+    Created by [@prayag-s] - feel free to contact me!
+
